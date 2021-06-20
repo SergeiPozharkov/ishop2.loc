@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '4b5b05d9ccf57e3fd7d63614b1b9208927b3e17c',
+    'reference' => 'f64a711e7f167f12ff963f240be05a581f317534',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '4b5b05d9ccf57e3fd7d63614b1b9208927b3e17c',
+      'reference' => 'f64a711e7f167f12ff963f240be05a581f317534',
     ),
     'gabordemooij/redbean' => 
     array (
